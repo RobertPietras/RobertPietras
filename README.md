@@ -4,7 +4,7 @@
 - associated with IT for over 20 years,
 - main core - relational databases, MsSQL, MySQL, Firebird, Postgres,
 - career included administrative programming in Python, VB, VBA, VBS,
-- recently intensive acquisition of Full Stack Developer skills - JS, CSS, C#. ASP.NET - level Junior
+- recently intensive acquisition of Full Stack Developer skills - JS, CSS, C#. ASP.NET - level Mid
 
 ⚡Tools, Languages ...
 
